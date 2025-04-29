@@ -1,3 +1,5 @@
+Atividade proposta pela **DIO** dentro do meu programa de aprendizado em **Microsoft AI for Tech - Azure Databricks**
+
 
 ### Templates ARM (Infraestrutura como Código)
 
@@ -145,7 +147,7 @@ A execução (mesmo que conceitual) deste projeto de monitoramento de custos no 
 
 ## Conclusão
 
-Este projeto demonstrou os passos essenciais para estabelecer um sistema de monitoramento de custos eficaz para o Azure Data Factory no ambiente Azure. Cobrimos desde a configuração inicial do serviço e a estruturação organizacional dos recursos, passando pela implementação de boas práticas de nomenclatura e o uso de Marcas, até a configuração de ferramentas de visualização (Dashboards) e controle proativo (Métricas, Orçamentos, Alertas). Além disso, exploramos como a Infraestrutura como Código (ARM Templates) e a automação (Azure Cloud Shell) podem otimizar e padronizar a gestão do ambiente.
+Este meu projeto, proposto pela **DIO** no meu curso de **Microsoft AI for Tech - Azure Databricks**, demonstrou os passos essenciais para estabelecer um sistema de monitoramento de custos eficaz para o Azure Data Factory no ambiente Azure. Cobrimos desde a configuração inicial do serviço e a estruturação organizacional dos recursos, passando pela implementação de boas práticas de nomenclatura e o uso de Marcas, até a configuração de ferramentas de visualização (Dashboards) e controle proativo (Métricas, Orçamentos, Alertas). Além disso, exploramos como a Infraestrutura como Código (ARM Templates) e a automação (Azure Cloud Shell) podem otimizar e padronizar a gestão do ambiente.
 
 A implementação destas práticas não só ajuda a controlar os gastos associados ao Azure Data Factory, mas também promove uma maior compreensão sobre como o serviço é utilizado e onde residem as oportunidades de otimização. A gestão financeira na nuvem (FinOps) é uma disciplina cada vez mais importante, e as habilidades desenvolvidas neste projeto são diretamente aplicáveis a outros serviços Azure e a ambientes de nuvem em geral. Ao documentar e aplicar estes aprendizados, você enriquece seu portfólio e demonstra competências valiosas para o mercado.
 
