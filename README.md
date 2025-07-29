@@ -160,3 +160,23 @@ A implementação destas práticas não só ajuda a controlar os gastos associad
 *   Convenções de nomenclatura recomendadas para recursos do Azure: [https://docs.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming](https://docs.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 *   Visão geral do Azure Cloud Shell: [https://docs.microsoft.com/azure/cloud-shell/overview](https://docs.microsoft.com/azure/cloud-shell/overview)
 
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
