@@ -1,0 +1,11 @@
+graph TD
+    A[Azure Data Factory] --> B(ARM Templates)
+    B --> C{Azure Cloud Shell}
+    C --> D[Azure Monitor]
+    C --> E[Azure Cost Management]
+    D --> F(Dashboards)
+    E --> F
+    D --> G(Alertas)
+    E --> G
+    F --> H[Otimização de Custos]
+    G --> H
