@@ -13,3 +13,20 @@ Thumbs.db
 
 # Environment variables
 .env
+
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Azure specific files (if any)
+*.zip
+*.bak
+
