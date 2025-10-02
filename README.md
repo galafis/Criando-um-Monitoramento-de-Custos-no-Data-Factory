@@ -1,9 +1,6 @@
 # Criando um Monitoramento de Custos no Data Factory
 
-<!-- A imagem hero deve ser gerada profissionalmente, representando o tema de monitoramento de custos no Azure Data Factory. -->
-
-![Hero Image Placeholder](https://via.placeholder.com/1200x400.png?text=Hero+Image+Placeholder+-+Monitoramento+de+Custos+no+Azure+Data+Factory)
-
+![Hero Image](https://via.placeholder.com/1200x400.png?text=Monitoramento+de+Custos+no+Azure+Data+Factory)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)](https://azure.microsoft.com/services/data-factory/)
@@ -70,7 +67,7 @@ Para replicar este ambiente e sistema de monitoramento, siga os passos abaixo:
     *Substitua `<seu-grupo-de-recursos>` pelo nome do grupo de recursos onde você deseja implantar o Data Factory.*
 
 4.  **Configurar Monitoramento e Alertas:**
-    Após a implantação, configure os dashboards no Azure Monitor e os orçamentos/alertas no Azure Cost Management, conforme detalhado na seção 
+    Após a implantação, configure os dashboards no Azure Monitor e os orçamentos/alertes no Azure Cost Management, conforme detalhado na seção 
 
 
 
@@ -107,7 +104,7 @@ The diagram above illustrates the proposed architecture for cost monitoring in A
 |                   | Bash / PowerShell                                       | For automation scripts in Azure Cloud Shell.                                                            |
 | **Version Control** | Git / GitHub                                            | For code version control and collaboration.                                                             |
 
-## Installation and Configuration
+## Instalação e Configuração
 
 To replicate this environment and monitoring system, follow the steps below:
 
