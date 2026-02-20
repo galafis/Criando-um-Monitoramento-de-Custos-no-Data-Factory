@@ -1,0 +1,11 @@
+# Dependencias do projeto - Monitoramento de Custos no Azure Data Factory
+# Instale com: pip install -r requirements.txt
+
+# Azure SDKs para interacao com Data Factory e Cost Management
+azure-mgmt-datafactory>=4.0.0
+azure-mgmt-costmanagement>=4.0.0
+azure-mgmt-monitor>=6.0.0
+azure-identity>=1.15.0
+
+# Testes
+pytest>=7.0.0
