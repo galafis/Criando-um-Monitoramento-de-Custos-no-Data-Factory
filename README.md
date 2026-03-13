@@ -3,6 +3,7 @@
 ![Hero Image](https://via.placeholder.com/1200x400.png?text=Monitoramento+de+Custos+no+Azure+Data+Factory)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 [![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-data-factory&logoColor=white)](https://azure.microsoft.com/services/data-factory/)
 [![Azure Cloud Shell](https://img.shields.io/badge/Azure%20Cloud%20Shell-0078D4?style=for-the-badge&logo=azure&logoColor=white)](https://docs.microsoft.com/azure/cloud-shell/overview)
 [![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=azure&logoColor=white)](https://docs.microsoft.com/azure/azure-resource-manager/management/overview)
